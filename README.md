@@ -26,6 +26,3 @@ The enrichment/depletion analysis revealed:
 - Splice type-specific preferences
 - Enrichment/depletion analysis relative to background frequencies
 - Structural and mechanistic interpretation
-
-## Biological Significance
-The results indicate a highly specific, non-random pattern of amino acid preferences at splicing junctions, suggesting that the splicing machinery has evolved precise recognition mechanisms for specific residues. 
